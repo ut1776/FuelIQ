@@ -1,0 +1,7 @@
+Limitation,What it means,Phase II action
+Dataset size (179 samples),Proof of concept only; not enough to establish broad field generalization.,"Multi-supplier, multi-grade, multi-batch campaign on native Blaise."
+Different instrument and wavelength (785 nm research handheld),Results cannot be presented as Blaise performance.,Acquire native Blaise spectra; re-fit and re-validate end to end.
+Test set is a subset of the same dataset,Not an independent field campaign.,Split by physical sample/batch; independent lab RON for every sample.
+No environmental robustness evidence,"Temperature, containers, operators, instruments, suppliers, geometry and contamination not tested.",Vary each factor deliberately across acquisition sessions.
+Not an ASTM-compliant RON method,"Position as screening and decision support, never as lab certification.",Keep lab confirmation in the workflow; engage standards experts.
+Applicability-domain thresholds are exploratory,Derived from development-set CV; correlation r is moderate.,Validate and recalibrate thresholds on independent native-Blaise samples.

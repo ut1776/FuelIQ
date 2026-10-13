@@ -1,0 +1,7 @@
+Item,Setting
+Preprocessing,Vector normalization → median imputation → standard scaling
+Model,RBF support-vector regression (SVR)
+C / epsilon / gamma,10 / 0.01 / 0.0003
+Fitted on,143 development samples (training + validation)
+Evaluated on,"36 held-out test samples, evaluated once"
+Tuning on test set,None

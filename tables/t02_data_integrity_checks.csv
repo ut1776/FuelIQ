@@ -1,0 +1,6 @@
+Check,Result,Expected,Pass
+Raman variables used (400–2300 cm⁻¹),1901,1901,PASS
+Missing spectral values (all splits),0,0,PASS
+Missing RON labels,0,0,PASS
+Identical spectra shared across splits,0,0,PASS
+Test samples used for tuning or thresholds,0,0,PASS

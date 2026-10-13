@@ -1,0 +1,8 @@
+Item,Value,Status
+50th percentile of mean 5-NN distance,23.552684067240893,descriptive
+75th percentile,33.35421545700311,descriptive
+80th percentile,34.861290004847056,descriptive
+90th percentile,39.98155558626153,descriptive
+95th percentile,48.25280426420933,descriptive
+Review candidate: distance >,33.35421545700311,EXPLORATORY — not a validated operating limit
+Laboratory-confirmation candidate: distance >,39.98155558626153,EXPLORATORY — not a validated operating limit
